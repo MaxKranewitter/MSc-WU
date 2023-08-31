@@ -1626,7 +1626,7 @@ __label__BREXIT	today we vote to send a message that we are for cooperation with
 __label__TRUMP	if you are a member of the news media amp you’re praising the president’s “tone shift” after a speech in which he used the disgustingly racist term “chinese virus” you are not doing your job well at all
 __label__TRUMP	a man who lies every day for a president who lies every minute accuses a respected journalist of lying i know which version i believe puckfompeo 
 __label__TRUMP	the president is a basket case 
-=__label__DEM	maybe well even get a democrat in the idaho congressional delegation not holding my breath though 
+__label__DEM	maybe well even get a democrat in the idaho congressional delegation not holding my breath though 
 __label__DEM	if democrats get into any karma talk or anything close to celebration or glee they are going to politically regret it be dignified dont eff this up
 __label__COVID	wear a mask amp save lives 
 __label__PRIDE	this week’s mo’mophilia contains this golden nugget of truth from american treasure niadesireclark who explains why we do this show why queer people are the best subscribe on stitcher 
