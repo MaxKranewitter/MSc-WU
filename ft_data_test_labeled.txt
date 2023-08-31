@@ -1566,7 +1566,7 @@ __label__POLIT	if you vote it will matter
 __label__TRUMP	i wish mj fox would go back in time and change things so that trump is just washing mcflys car now
 __label__COVID	hey twittersafety this account is spreading false info about covid 
 __label__REP	the idahogop loves to keep idahoans uneducated 
-__label__BEXIT	brexit has unfortunately awoken a weird subhuman subcult of people in the uk who shout ‘traitor’ at people who voted remain ignorant of the fact or deliberately dumb that not having trade deals and freedom of movement is going to be a disaster 
+__label__BREXIT	brexit has unfortunately awoken a weird subhuman subcult of people in the uk who shout ‘traitor’ at people who voted remain ignorant of the fact or deliberately dumb that not having trade deals and freedom of movement is going to be a disaster 
 __label__PRIDE	so much love ❤️🏳️‍🌈 check out the pics here helsinkipride pride darude
 __label__TRUMP	the president has lots of experience with bedbugs 
 __label__POLIT	lot of tax talk from a guy who wont show his schedule c
